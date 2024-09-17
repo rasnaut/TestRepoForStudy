@@ -1,1 +1,4 @@
-//Change from Teodor
+// Change from Teodor
+
+// Comment from Danylo
+
