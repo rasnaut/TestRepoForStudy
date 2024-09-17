@@ -1,2 +1,3 @@
 // site for "NiceMedia" - video production company
-// comment from Danylo
+// Comment from Danylo
+// Change from Teodor
