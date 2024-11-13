@@ -2,5 +2,10 @@
 // Comment from Danylo
 // Change from Teodor
 
+// GIT ETO GOOD
+
+// Local getElementById
+
+
 
 //Change from Mykyta
