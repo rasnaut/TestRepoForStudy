@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5399c230-4612-4201-b5c9-425936ba3a72" name="Changes" comment="Create in newfile.js &quot;Hello&quot; Hello 13.11.2024">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/newFile.java" afterDir="false" />
-    </list>
+    <list default="true" id="5399c230-4612-4201-b5c9-425936ba3a72" name="Changes" comment="hello from Konstantin 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +43,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "41-test-from-kostya",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/IT/JAVA PRO/LessonPractic1"
+    "last_opened_file_path": "C:/IT/JAVA PRO/LessonPractic1",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager">
@@ -89,7 +87,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731487091554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hello from Konstantin">
+      <option name="closed" value="true" />
+      <created>1731494937502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731494937502</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hello from Konstantin 2">
+      <option name="closed" value="true" />
+      <created>1731495123047</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731495123047</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hello from Konstantin 2">
+      <option name="closed" value="true" />
+      <created>1731495150736</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731495150736</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +128,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create in newfile.js &quot;Hello&quot;" />
     <MESSAGE value="Create in newfile.js &quot;Hello&quot; Hello 13.11.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create in newfile.js &quot;Hello&quot; Hello 13.11.2024" />
+    <MESSAGE value="hello from Konstantin" />
+    <MESSAGE value="hello from Konstantin 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello from Konstantin 2" />
   </component>
 </project>
