@@ -2,4 +2,4 @@
 // Comment from Danylo
 // Change from Teodor
 
-// GIT ETO GOOOOOD
+// GIT ETO GOOD
