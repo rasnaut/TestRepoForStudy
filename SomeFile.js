@@ -3,3 +3,5 @@
 // Change from Teodor
 
 // GIT ETO GOOD
+
+// Local getElementById
